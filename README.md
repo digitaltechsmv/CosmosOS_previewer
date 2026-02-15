@@ -67,6 +67,6 @@ A interface é dividida em categorias estratégicas, ativadas individualmente co
 ## 📞 Contato & Suporte
 O **COSMOS OS** é uma solução proprietária mantida pela equipe de desenvolvimento Cosmos.
 
-* **Desenvolvedor:** Administrador COSMOS
+* **Desenvolvedor:** João Vinicius Santos
 * **WhatsApp:** (73) 99958-6801
 * **Versão:** 1.5 (Build Fevereiro 2026)
