@@ -1,9 +1,6 @@
-
-![WhatsApp Image 2026-02-14 at 21 33 02](https://github.com/user-attachments/assets/29e85557-dde3-4938-b643-38f15331d839)
-
 # 🌌 COSMOS OS — Sistema de Gestão & Segurança Proprietário
 
-> **Desenvolvido por:** DigitalTech  
+> **Desenvolvido por:** DigitalTech SMV  
 > **Engenheiro Responsável:** Joao Vinicius  
 > **Versão:** 1.5.2 | **Status:** Estável (Build 2026)
 
@@ -47,4 +44,21 @@ A integridade e exclusividade do software são garantidas pelo protocolo **Seria
 
 1.  **Assinatura de Hardware (Hardware ID):** O software vincula-se permanentemente ao UUID da placa-mãe e IDs de disco. O sistema é **intransferível e anti-clonagem**.
 2.  **Validação via Servidor Privado:** Consulta dinâmica ao nosso servidor de licenças para validar a autenticidade e liberar módulos contratados.
-3.  **Blindagem Dinâmica:** As portas de rede permanecem em estado *stealth*
+3.  **Blindagem Dinâmica:** As portas de rede permanecem em estado *stealth* (invisível), sendo abertas pelo servidor apenas para funções autorizadas pela licença ativa.
+
+---
+
+## 6. ✨ Diferenciais Executivos
+* **Interface Topmost:** Painel de controle prioritário para operação contínua.
+* **Manutenção Autônoma:** Atualizações de segurança via servidor privado da DigitalTech SMV.
+* **Protocolo Anti-Tamper:** Bloqueio instantâneo em caso de detecção de tentativa de violação física ou clonagem do sistema.
+
+---
+
+## 📞 Contato e Engenharia
+**DigitalTech SMV | Inovação e Robustez**
+* **Especialista:** Joao Vinicius
+* **WhatsApp:** (73) 99958-6801
+
+---
+*Documentação de Propriedade Intelectual Privada. Proibida a reprodução sem autorização.*
