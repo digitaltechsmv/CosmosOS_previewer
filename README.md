@@ -3,7 +3,7 @@
 
 # 🌌 COSMOS OS — Sistema de Gestão & Segurança Proprietário
 
-> **Desenvolvido por:** DigitalTech SMV  
+> **Desenvolvido por:** DigitalTech  
 > **Engenheiro Responsável:** Joao Vinicius  
 > **Versão:** 1.5.2 | **Status:** Estável (Build 2026)
 
