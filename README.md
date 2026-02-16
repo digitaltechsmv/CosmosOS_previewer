@@ -1,7 +1,7 @@
 # 🌌 COSMOS OS — Sistema de Gestão & Segurança Proprietário
 
-> **Desenvolvido por:** DigitalTech SMV  
-> **Engenheiro Responsável:** Joao Vinicius  
+> **Desenvolvido por:** Digital Tech 
+> **Engenheiro Responsável:** Joao Vinicius Santos
 > **Versão:** 1.5.2 | **Status:** Estável (Build 2026)
 
 ---
@@ -56,8 +56,8 @@ A integridade e exclusividade do software são garantidas pelo protocolo **Seria
 ---
 
 ## 📞 Contato e Engenharia
-**DigitalTech SMV | Inovação e Robustez**
-* **Especialista:** Joao Vinicius
+**Digital Tech | Inovação e Robustez**
+* **Especialista:** Joao Vinicius Santos
 * **WhatsApp:** (73) 99958-6801
 
 ---
