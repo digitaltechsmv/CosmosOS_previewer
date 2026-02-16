@@ -1,5 +1,6 @@
 
-![WhatsApp Image 2026-02-14 at 21 33 02](https://github.com/user-attachments/assets/dc004621-7de1-4709-8065-3d433ec081b1)
+![CosmosOS](https://github.com/user-attachments/assets/3077db99-c770-4d34-a21a-6a4322691500)
+
 
 
 # 🌌 COSMOS OS — Sistema de Gestão & Segurança Proprietário
