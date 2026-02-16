@@ -1,72 +1,50 @@
 
 ![WhatsApp Image 2026-02-14 at 21 33 02](https://github.com/user-attachments/assets/29e85557-dde3-4938-b643-38f15331d839)
 
-# 🌌 COSMOS OS — Sistema Operacional de Gestão & Segurança
+# 🌌 COSMOS OS — Sistema de Gestão & Segurança Proprietário
 
-O **COSMOS OS** é uma distribuição Linux customizada projetada para atuar como um **Appliance de Monitoramento e Gestão**. Ele transforma hardware comum em uma estação de trabalho blindada, com foco em segurança de rede e ativação modular via **Serial Lock**.
-
----
-
-## 🎯 O Conceito: Boot-to-Dashboard
-Diferente de sistemas operacionais convencionais, o COSMOS OS opera em **Modo Kiosk Profissional**. Ao iniciar, o usuário é recebido pela **COSMOS Suite**, uma interface que gerencia o acesso aos serviços autorizados, eliminando distrações e restringindo o acesso ao sistema base (Core).
+> **Desenvolvido por:** DigitalTech SMV  
+> **Engenheiro Responsável:** Joao Vinicius  
+> **Versão:** 1.5.2 | **Status:** Estável (Build 2026)
 
 ---
 
-## 🛡️ Pilares de Robustez
-
-### 1. Sistema Atomizado (Immutable OS)
-O núcleo do sistema é protegido contra modificações.
-* **Resiliência:** Proteção nativa contra corrupção por desligamentos súbitos.
-* **Integridade:** O sistema sempre inicia em um estado verificado e seguro.
-
-### 2. Serial Lock v2.0 (Segurança & Cloud)
-Protocolo que vincula o software ao hardware e valida permissões via Cloud:
-* **Hardware ID:** Vinculação via UUID da placa-mãe e IDs de disco.
-* **Cloud Validation:** Consulta em tempo real ao repositório privado para validar módulos contratados.
-* **Anti-Tamper:** Travamento instantâneo em caso de clonagem ou alteração de hardware.
-
-### 3. Blindagem Dinâmica (Firewall Orchestration)
-O sistema opera sob o protocolo de **Privilégio Mínimo**. Todas as portas de rede permanecem em estado "stealth" (invisível), sendo abertas dinamicamente apenas para os serviços licenciados.
+## 1. 🎯 Conceito do Produto
+O **COSMOS OS** é uma plataforma de infraestrutura dedicada (**Appliance**), projetada para transformar hardware de alta performance em uma estação de trabalho blindada. Focado em **Segurança de Rede, Monitoramento Proativo e Gestão de Ativos**, o sistema opera sob um núcleo imutável, garantindo que a operação nunca seja interrompida por falhas de software convencionais.
 
 ---
 
-## 🛠️ Ecossistema de Módulos COSMOS
+## 2. 🔑 Arquitetura de Acesso em Camadas
+O sistema elimina a complexidade de sistemas operacionais comuns através de um modelo de **Acesso Multinível**:
 
-A interface é dividida em categorias estratégicas, ativadas individualmente conforme o licenciamento contratado:
+* **🟢 Camada de Operação (Modo Kiosk):** Interface principal imersiva e controlada. O usuário interage apenas com os módulos autorizados, sem acesso aos terminais técnicos ou arquivos do sistema base.
+* **🟡 Camada de Gestão (Privileged Access):** Nível de acesso exclusivo para a engenharia da **DigitalTech SMV**, permitindo manutenção avançada, atualizações e diagnósticos em tempo real via canal seguro.
 
-| Categoria | Descrição | Status de Rede |
+---
+
+## 3. 🛡️ Tecnologia de Isolamento e Resiliência
+* **Motores Estanques:** Cada funcionalidade roda em um compartimento virtual independente. Uma falha isolada não compromete a estabilidade do sistema principal.
+* **Núcleo Atomizado:** Sistema de arquivos protegido contra gravações acidentais, prevenindo corrupção de dados por quedas de energia.
+* **Boot Silencioso:** Inicialização limpa e profissional com a identidade visual da marca, ocultando processos técnicos.
+
+---
+
+## 4. 🚀 Ecossistema de Módulos (COSMOS)
+A interface organiza os serviços em categorias estratégicas, ativadas via servidor:
+
+| Categoria | Descrição Estratégica | Status |
 | :--- | :--- | :--- |
-| **🛡️ VPN** | Túneis seguros para acesso remoto criptografado. | Dinâmico |
-| **📂 ARQUIVOS** | Nuvem privada de alta performance para documentos. | Dinâmico |
-| **📊 MONITOR** | Gestão de ativos e telemetria em tempo real. | Dinâmico |
-| **🎧 SUPORTE** | Acesso remoto assistido e gestão de chamados. | Dinâmico |
-| **⚙️ INFRA** | Painel administrativo do servidor e Proxy reverso. | Dinâmico |
-| **🛠️ FERRAMENTAS** | Análise de logs e utilitários de diagnóstico. | Dinâmico |
+| **🛡️ Segurança** | Filtragem de tráfego e escudo de privacidade de rede. | Dinâmico |
+| **📊 Telemetria** | Monitoramento de saúde de ativos e performance de hardware. | Dinâmico |
+| **📂 Central** | Nuvem privada de alta performance para ativos digitais. | Dinâmico |
+| **🎧 Suporte** | Canal direto de assistência e gestão de fluxos operacionais. | Dinâmico |
+| **⚙️ Infra** | Orquestrador de tráfego e balanceamento de serviços. | Dinâmico |
 
 ---
 
-## 🚀 Diferenciais da v2.0 (2026)
+## 5. 🔒 Motor de Licenciamento: Serial Lock v2.0
+A integridade e exclusividade do software são garantidas pelo protocolo **Serial Lock**:
 
-* **Ativação Granular:** Licenciamento por módulo isolado ou pacotes completos.
-* **Chave de Técnico (ROOT):** Modo de manutenção temporário. Libera o ecossistema para reparos sem persistência de credenciais no disco.
-* **Isolamento Docker:** Serviços rodam em ambientes estanques, garantindo estabilidade do núcleo.
-* **Interface Topmost:** Painel de controle prioritário para operação contínua (NOC).
-
----
-
-## 🔑 Modelos de Licenciamento
-
-1. **UNITÁRIA:** Ativa um único módulo de serviço.
-2. **FULL/COMBO:** Libera o acesso total ao ecossistema COSMOS.
-3. **ADMIN (TECH):** Chave de uso técnico. Libera acesso total para manutenção; as regras de firewall expiram ao reiniciar o sistema.
-
-
-
----
-
-## 📞 Contato & Suporte
-O **COSMOS OS** é uma solução proprietária mantida pela equipe de desenvolvimento Cosmos.
-
-* **Desenvolvedor:** João Vinicius Santos
-* **WhatsApp:** (73) 99958-6801
-* **Versão:** 1.5 (Build Fevereiro 2026)
+1.  **Assinatura de Hardware (Hardware ID):** O software vincula-se permanentemente ao UUID da placa-mãe e IDs de disco. O sistema é **intransferível e anti-clonagem**.
+2.  **Validação via Servidor Privado:** Consulta dinâmica ao nosso servidor de licenças para validar a autenticidade e liberar módulos contratados.
+3.  **Blindagem Dinâmica:** As portas de rede permanecem em estado *stealth*
