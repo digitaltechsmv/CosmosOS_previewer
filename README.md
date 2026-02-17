@@ -8,7 +8,7 @@
 
 > **A solução definitiva em infraestrutura imutável e segurança de dados desenvolvida pela Digital Tech.**
 
-O **CosmosOS** é uma plataforma de elite projetada para redefinir a resiliência em TI. Unindo a blindagem de um núcleo imutável à flexibilidade de módulos sob demanda, entregamos uma infraestrutura inquebrável para o seu negócio.
+O **CosmosOS** é uma plataforma de elite projetada para redefinir a resiliência em TI. Unindo a blindagem de um núcleo imutável à flexibilidade de módulos sob demanda, entregamos uma infraestrutura inquebrável para o seu negócio, agora centralizada em uma interface de comando unificada.
 
 ---
 
@@ -17,6 +17,9 @@ O **CosmosOS** é uma plataforma de elite projetada para redefinir a resiliênci
 ### 🛡️ Imutabilidade e Cosmos Shield
 O núcleo do **CosmosOS** opera em modo leitura (*Read-Only*). O **Cosmos Shield**, tecnologia de propriedade exclusiva de **João Vinicius c. Santos**, atua como uma camada de inteligência que valida a integridade e gerencia o licenciamento em tempo real via **Serial Lock**.
 
+### 🖥️ COSMOS Suite (Command Center)
+O sistema introduz a **COSMOS Suite**, uma interface centralizada em modo **Semi-Quiosque** (PWA). Ela permite que o usuário gerencie todos os recursos como se fosse um aplicativo desktop nativo, eliminando a complexidade de gerenciar múltiplos endereços e focado na experiência do usuário final.
+
 ### ⚡ Performance de Baixa Latência
 Otimizado para arquiteturas AMD64, o sistema garante que serviços críticos de rede e telemetria operem com o menor atraso possível, garantindo estabilidade mesmo sob alta carga de processamento.
 
@@ -24,23 +27,21 @@ Otimizado para arquiteturas AMD64, o sistema garante que serviços críticos de 
 
 ## 📦 Ecossistema de Módulos (Categorias COSMOS)
 
-A infraestrutura **Cosmos** é modular e composta por soluções proprietárias e integradas para máxima eficiência:
+A infraestrutura **Cosmos** é modular e composta por soluções proprietárias e integradas para máxima eficiência através do portal unificado:
 
-* **COSMOS Security:** Proteção ativa contra intrusão, análise de comportamento de rede e túneis de comunicação criptografados de ponta a ponta.
+* **COSMOS Security:** Proteção ativa contra intrusão, análise de comportamento de rede e túneis de comunicação criptografados.
 * **COSMOS Management:** Orquestração de containers e gestão avançada de ativos e inventário tecnológico.
-* **COSMOS Monitoring:** Telemetria em tempo real, monitoramento de integridade de serviços e alertas de disponibilidade.
-* **COSMOS Cloud & Resilience:** Nuvem privada para armazenamento seguro e sistemas automatizados de redundância e backup.
-* **COSMOS Network:** Motores de roteamento e gestão de tráfego de alta performance integrados.
+* **COSMOS Monitoring:** Telemetria em tempo real (Zabbix Engine), monitoramento de integridade e alertas.
+* **COSMOS Support:** Gestão de chamados e suporte técnico especializado (GLPI Engine).
+* **COSMOS Cloud & Resilience:** Nuvem privada para armazenamento seguro e redundância automatizada.
 
 ---
 
 ## ⚖️ Direitos Autorais e Propriedade Intelectual
 
-* **Autoria e Propriedade:** O **Cosmos Shield** e toda a infraestrutura do ecossistema **Cosmos** são de autoria única e exclusiva de **João Vinicius c. Santos**.
-* **Proibição de Cópia e Venda:** É **ESTRITAMENTE PROIBIDA** a cópia, reprodução, redistribuição, venda ou engenharia reversa de qualquer componente deste software sem a autorização prévia e por escrito do autor. O uso não autorizado constitui violação de direitos autorais e propriedade industrial.
-* **Licenciamento:** O acesso ao sistema é gerenciado pelo **Cosmos Shield**:
-    * **Planos Recorrentes:** Direito de uso e suporte condicionados à assinatura ativa.
-    * **Licença Permanente:** Uso vitalício da versão instalada. Suporte e atualizações incluídos por 1 ano.
+* **Autoria e Propriedade:** O **Cosmos Shield**, a arquitetura **CosmosOS** e a interface **COSMOS Suite** são de autoria única e exclusiva de **João Vinicius c. Santos**.
+* **Proibição de Cópia e Venda:** É **ESTRITAMENTE PROIBIDA** a cópia, reprodução, redistribuição, venda ou engenharia reversa sem autorização prévia por escrito.
+* **Serial Lock & Ativação:** O acesso é condicionado à validação de hardware única. O uso não autorizado constitui violação de propriedade industrial.
 
 ---
 
