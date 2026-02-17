@@ -1,4 +1,6 @@
 # ![Sem título](https://github.com/user-attachments/assets/5afde41b-75ec-4bec-94b0-4d1dd93ae38e)
+
+
 🪐 CosmosOS
 
 ![Status]elds.io/badge/Status-Est%C3%A1vel-green)
