@@ -1,6 +1,7 @@
 # 🪐 CosmosOS
 
-![Status](https://img.shields.io/badge/Status-Est%C3%A1vel-green)
+![Status](https://img.shi![Sem título](https://github.com/user-attachments/assets/fdf79916-f7d2-43c6-9c2a-eaf24f12ba08)
+elds.io/badge/Status-Est%C3%A1vel-green)
 ![Security](https://img.shields.io/badge/Security-Cosmos%20Shield-blueviolet)
 ![Performance](https://img.shields.io/badge/Latency-Ultra--Low-red)
 ![Platform](https://img.shields.io/badge/Platform-Bare%20Metal%20%7C%20VM-blue)
