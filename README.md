@@ -1,7 +1,9 @@
-# ![Sem título](https://github.com/user-attachments/assets/5afde41b-75ec-4bec-94b0-4d1dd93ae38e)
+
+![CosmosOS](https://github.com/user-attachments/assets/8d63129a-00bc-45b9-aad8-f07e29ae77ab)
 
 
-🪐 CosmosOS
+🪐 CosmosOS![Uploading CosmosOS.jpg…]()
+
 
 ![Status]elds.io/badge/Status-Est%C3%A1vel-green)
 ![Security](https://img.shields.io/badge/Security-Cosmos%20Shield-blueviolet)
