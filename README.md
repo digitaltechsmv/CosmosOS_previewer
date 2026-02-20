@@ -1,5 +1,6 @@
 
-![Sem título](https://github.com/user-attachments/assets/35baddf7-44b1-4745-a573-3faf476378cd)
+![CosmosOS](https://github.com/user-attachments/assets/e6bace1a-e8ac-47ef-9c43-e5c541a8dc41)
+
 
 
 🪐 CosmosOS![Uploading CosmosOS.jpg…]()
